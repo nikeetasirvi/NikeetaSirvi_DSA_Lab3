@@ -22,7 +22,7 @@ The entered Strings do not contain Balanced Brackets
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-                                                                                                                                  MARKS 10
+MARKS 10
 Question 2) Find a pair with a given sum in Binary Search Tree
  
 Sum = 130
@@ -30,6 +30,7 @@ Pair is (60,70)
 
 
 If the sum is not found, print nodes are not found.
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 
